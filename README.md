@@ -6,8 +6,8 @@ Credits : Original Code can be found <a href="https://github.com/AndroiableDroid
 
 
 # Setting Up
-
-`make`
+1. `sudo apt-get install device-tree-compiler`
+2. `make`
 
 
 # Generating dt.img
