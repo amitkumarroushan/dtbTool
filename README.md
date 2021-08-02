@@ -15,7 +15,7 @@ Credits : Original Code can be found <a href="https://github.com/AndroiableDroid
 -s = defines pagesize (usually RAM in MB ; here I have 2GB) <br>
 -o = output name
 
-`./dtbTool -s 2048 -o dt.img ~/path/to/dtb/`
-
+1. If dtb is present in other folder: `./dtbTool -s 2048 -o dt.img ~/path/to/dtb/`
+2. If dtb is in same folder: `./dtbTool -s 2048 -o dt.img `
 
 
